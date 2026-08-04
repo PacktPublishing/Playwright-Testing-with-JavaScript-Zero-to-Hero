@@ -1,0 +1,2 @@
+1 Time Use Coupon: PACKT_PW
+https://courses.glitchitsystem.com/courses/playwright-testing
